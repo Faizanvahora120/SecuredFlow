@@ -1,2 +1,0 @@
-# SecuredFlow
-SecuredFlow Project
